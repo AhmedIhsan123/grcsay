@@ -79,6 +79,7 @@ We will now artificially trigger a merge conflict. When we follow good git pract
       /       (_____ /
     /_____ /     U
    its a side profile of a dog
+   I LOVE THIS LINE!
    ```
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
 1. Have the error partner pull the other partner's changes:
@@ -154,12 +155,12 @@ This is a dog.
 
 [Deer](art/deer.txt)
 This is a Deer stuck looking at headlights!!!
-         (\_._/)      
-         ( o_o )   <== 0_0 headlights
-         (  -  )     
-   /\     /   \     /\   
-  /  \   /     \   /  \  
- /    \_/       \_/    \ 
-        ||     ||  
-        11     11   (car headlights)
-        00     00
+(\_.\_/)  
+ ( o_o ) <== 0_0 headlights
+( - )  
+ /\ / \ /\  
+ / \ / \ / \  
+ / \_/ \_/ \
+|| ||  
+ 11 11 (car headlights)
+00 00
