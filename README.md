@@ -148,3 +148,13 @@ Try updating the program so that it can handle multiple lines of text. Or make a
 This is a dog.
 
 [Deer](art/deer.txt)
+This is a Deer stuck looking at headlights!!!
+         (\_._/)      
+         ( o_o )   <== 0_0 headlights
+         (  -  )     
+   /\     /   \     /\   
+  /  \   /     \   /  \  
+ /    \_/       \_/    \ 
+        ||     ||  
+        11     11   (car headlights)
+        00     00
