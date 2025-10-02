@@ -1,6 +1,8 @@
 /**
- * The Animal interface represents any animal that can be displayed as ASCII art.
- * Classes implementing this interface should provide their specific animal artwork
+ * The Animal interface represents any animal that can be displayed as ASCII
+ * art.
+ * Classes implementing this interface should provide their specific animal
+ * artwork
  * and override the toString method to return the name of the animal.
  */
 interface Animal {

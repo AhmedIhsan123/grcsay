@@ -71,12 +71,12 @@ public class SayApp {
 
     /**
      * Provides a list of available animals.
-     * Currently, the only available animals are Duck and Cow and Monkey.
+     * Currently, the only available animals are Duck and Cow
      *
      * @return A list of Animal objects.
      */
     public static List<Animal> animalList() {
-      return Arrays.asList(new Cow(), new Duck(), new Monkey());
+      return Arrays.asList(new Cow(), new Duck(), new Monkey(), new Camel());
     }
 
     /**
